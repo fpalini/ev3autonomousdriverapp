@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EV3 Autonomous Driver</string>
+    <string name="high_s">high S</string>
+    <string name="low_v">low V</string>
+    <string name="high_v">high V</string>
+    <string name="low_h">low H</string>
+    <string name="high_h">high H</string>
+    <string name="low_s">low S</string>
+    <string name="start">Start!</string>
+</resources>
