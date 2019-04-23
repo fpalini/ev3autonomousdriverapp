@@ -1,4 +1,4 @@
-# EV3AutonomousDriver
+# EV3AutonomousDriver (Android App)
 
 This is a first experiment with EV3 Lego Mindstorm and OpenCV.
 
